@@ -1,0 +1,3 @@
+$request->session()->put('user', '$sql[0]->idusuario');
+
+$request->session()->put('active', '1');

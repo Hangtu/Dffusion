@@ -1,0 +1,17 @@
+{
+  "name": "Dffusion",
+  "description": "WEBAPP",
+  "main": "",
+  "authors": [
+    "SUNBLUE APPS"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "angular": "1.5.6",
+    "jquery": "^2.2.4",
+    "bootstrap": "^3.3.6",
+    "ngInfiniteScroll": "1.0.0",
+    "photoswipe": "^4.1.1"
+  }
+}

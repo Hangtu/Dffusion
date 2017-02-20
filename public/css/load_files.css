@@ -1,0 +1,93 @@
+
+
+body {
+  padding-top: 70px !important; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.img-center {
+	margin: 0 auto;
+}
+
+footer {
+ position:fixed;
+ left:0px;
+ bottom:0px;
+ height:30px;
+ width:100%;
+ background:#222;
+}
+
+@media (min-width: 1200px){
+  .container {
+    width: auto !important;
+  }
+}
+
+@media (min-width: 992px){
+  .container {
+    width: auto !important;
+  }
+}
+
+@media (min-width: 768px){
+  .container {
+    width: auto !important;
+  }
+}
+
+/*.container {
+  padding-right: 5px !important;
+  padding-left: 5px !important;
+  margin-right: 20px !important;
+  margin-left: 20px !important;
+}*/
+
+.infinite-registred{
+  height:100px;
+}
+
+.bussinesImagesList{
+  width:100px;
+  height:100px;
+}
+
+.three-dots {
+    -ms-text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+}
+
+.btn2 {
+    border-radius: 0;
+    border: 0;
+    margin: 6px;
+}
+
+.btn, .pager li a {
+    transition: .2s ease-out;
+}
+
+.btn2 {
+    display: inline-block;
+    padding: .375rem 1rem;
+    font-size: 1rem;
+    font-weight: normal;
+    line-height: 1.5;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+}
+
+
+
+
+
+
+

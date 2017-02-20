@@ -1,0 +1,364 @@
+# Webalizer V2.23-08 Incremental Data - 02/18/2017 19:31:20
+2017 2 18 19 31 20
+614 423 48 24 15 9 34055684 212 59 0
+2 22 66 1 18
+32 17 1249497 3 17 3
+28 17 1243940 4 12 4
+22 14 1234322 1 7 1
+20 12 1001358 1 7 1
+24 15 1238923 2 9 2
+30 18 1253462 4 15 4
+22 14 1234322 1 7 1
+22 14 1234322 1 7 1
+58 46 4300746 7 15 7
+22 14 1234322 1 7 1
+35 24 1827431 3 12 3
+26 16 1243524 3 11 3
+71 60 5061698 8 13 4
+42 31 2470297 5 13 5
+35 21 1254326 5 17 5
+45 32 2475982 4 16 6
+57 44 3262498 6 19 6
+23 14 1234714 2 8 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+22 20 1871255 4
+3 2 440 1
+4 2 9218 4
+2 1 4601 2
+0 0 0 0
+1 0 332 1
+4 2 9202 4
+8 4 14203 7
+34 32 2458571 4
+2 1 4601 2
+10 3 15175 10
+7 4 18060 7
+17 16 1231014 3
+2 1 4601 2
+2 1 4601 2
+56 44 2632767 23
+21 19 1867030 3
+11 9 730028 3
+394 250 21984832 126
+12 11 1190552 2
+0 0 0 0
+2 1 4601 2
+0 0 0 0
+0
+0
+0
+423
+0
+0
+0
+0
+0
+0
+0
+0
+191
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/bower_components/mdb/js/mdb.js
+0 26 0 11377392 0 0
+/js/controllers/bienvenido.js
+0 25 0 7300 0 0
+/css/load_files.css
+0 27 0 38124 0 0
+/bower_components/mdb/font/roboto/Roboto-Light.ttf
+0 2 0 253584 0 0
+/bienvenido
+0 52 0 219700 5 0
+/bower_components/bootstrap/dist/js/bootstrap.min.js
+0 27 0 995436 0 0
+/bower_components/photoswipe/dist/default-skin/default-skin.css
+0 1 0 11609 0 0
+/js/app.js
+0 25 0 4225 0 0
+/moreviews
+0 5 0 0 2 0
+/bower_components/mdb/font/roboto/Roboto-Regular.ttf
+0 2 0 252144 0 0
+/bower_components/photoswipe/dist/photoswipe.css
+0 1 0 4065 0 0
+/bower_components/mdb/font/roboto/Roboto-Thin.ttf
+0 2 0 255168 0 0
+/bower_components/jquery/dist/jquery.min.js
+0 27 0 2310714 0 0
+/bower_components/bootstrap/dist/css/bootstrap.min.css
+0 26 0 3152760 0 0
+/bower_components/mdb/js/tether.min.js
+0 26 0 606008 0 0
+/bower_components/mdb/css/style.css
+0 27 0 5618268 0 0
+/bower_components/mdb/font/roboto/Roboto-Medium.ttf
+0 2 0 254976 0 0
+/bower_components/mdb/font/roboto/Roboto-Bold.ttf
+0 2 0 255488 0 0
+/bower_components/mdb/css/mdb.min.css
+0 1 0 123719 0 0
+/robots.txt
+0 12 0 288 0 0
+/bower_components/mdb/css/bootstrap.css
+0 26 0 2904304 0 0
+/bower_components/mdb/js/prism.min.js
+0 25 0 999025 0 0
+/css/business-frontpage.css
+0 27 0 24570 0 0
+/bower_components/angular/angular.min.js
+0 27 0 4299237 0 0
+# End Of Table - urls
+# -sites- (monthly)
+207.46.13.218
+0 1 1 24 0 0
+-
+54.251.129.117
+0 2 1 4601 1 1486869495
+/bienvenido
+194.247.13.180
+0 4 2 9938 1 1486397546
+-
+5.189.199.245
+0 3 1 4933 3 1487248310
+/bienvenido
+104.154.94.120
+0 2 1 4601 1 1487172850
+/bienvenido
+165.231.0.242
+0 2 1 4601 1 1486342981
+/bienvenido
+66.249.69.223
+0 2 2 4249 1 1486004456
+/bienvenido
+109.169.29.30
+0 18 16 1232126 1 1487237738
+-
+173.252.115.39
+0 1 1 4225 1 1486641998
+/bienvenido
+66.249.64.100
+0 3 3 116839 1 1487339029
+/bienvenido
+66.249.69.227
+0 1 0 392 1 1486004410
+-
+195.154.161.35
+0 1 0 376 1 1487093144
+-
+188.52.166.80
+0 20 19 1866654 1 1486602441
+/bienvenido
+173.252.115.42
+0 1 1 4225 1 1486641996
+/bienvenido
+66.249.64.104
+0 1 0 392 1 1487339026
+-
+184.154.139.21
+0 66 42 3702966 3 1487273522
+-
+40.77.167.20
+0 6 6 1945 0 0
+-
+40.77.167.23
+0 3 3 559762 0 0
+-
+87.3.205.188
+0 20 19 1866654 1 1487008065
+/bienvenido
+79.137.85.189
+0 2 1 4601 1 1487315667
+/bienvenido
+179.110.213.8
+0 12 11 1190552 1 1486671057
+/bienvenido
+158.69.229.6
+0 16 13 792561 1 1487349931
+/moreviews
+184.154.139.18
+0 66 42 3702966 3 1487446275
+-
+38.100.21.61
+0 11 9 588492 1 1486829498
+-
+184.154.139.20
+0 66 42 3702966 3 1487187523
+-
+95.211.230.94
+0 2 1 4601 1 1486270264
+/bienvenido
+66.249.64.109
+0 8 7 291242 1 1487090682
+/bienvenido
+184.154.139.17
+0 154 98 8640254 7 1487014814
+-
+69.58.178.57
+0 7 4 10386 1 1487176241
+-
+197.231.221.211
+0 2 1 4601 1 1486889965
+/bienvenido
+85.248.227.164
+0 2 1 4601 1 1486365801
+/bienvenido
+43.245.2.35
+0 2 1 4601 1 1487069159
+/bienvenido
+195.154.183.187
+0 9 3 14799 1 1485949594
+/bienvenido
+40.77.167.28
+0 3 3 310896 0 0
+-
+157.55.39.60
+0 6 5 358443 1 1486973218
+/bienvenido
+51.15.40.233
+0 1 0 376 1 1485974692
+-
+201.48.149.197
+0 10 9 729652 1 1487009172
+/bienvenido
+64.246.165.140
+0 2 1 416 1 1487126296
+-
+54.213.160.82
+0 2 1 4617 1 1486816932
+/bienvenido
+45.32.144.70
+0 3 1 4977 1 1486023879
+-
+66.249.64.96
+0 13 13 1113783 1 1487339042
+/moreviews
+184.154.139.19
+0 42 26 2235680 2 1487360246
+-
+173.252.115.36
+0 1 0 392 1 1486641991
+-
+35.162.192.80
+0 1 0 392 1 1487436134
+-
+173.252.115.37
+0 1 0 376 1 1486641998
+-
+54.183.247.106
+0 2 1 4601 1 1487197929
+/bienvenido
+185.146.171.197
+0 2 1 4601 1 1487255599
+/bienvenido
+66.249.64.105
+0 9 9 939756 1 1487090707
+/moreviews
+# End Of Table - sites (monthly)
+# -sites- (daily)
+184.154.139.18
+0 22 14 1234322 1 1487446275
+-
+35.162.192.80
+0 1 0 392 1 1487436134
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://dffusionapp.com/bienvenido
+1 67
+http://pizza-imperia.com/
+0 2
+http://dffusionapp.com/facebookLogin
+1 1
+http://hvd-store.com/
+0 2
+http://www.google.com/url
+1 197
+http://pizza-tycoon.com/
+0 4
+http://www.dffusionapp.com/bienvenido
+1 14
+- (Direct Request)
+0 310
+Google
+2 197
+http://top10-way.com/try.php
+0 6
+http://anonymizeme.pro/go/hide.cgi
+0 2
+http://dffusionapp.com/
+1 2
+http://whois.domaintools.com/dffusionapp.com
+1 1
+http://1-free-share-buttons.com
+0 4
+http://dffusionapp.com
+1 1
+http://dffusionapp.com/engine/engine.php
+1 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0
+0 123
+MSIE 7.0
+0 11
+Netscape 6 compatible
+2 123
+SiteLockSpider [en] (WinNT; I ;Nav)
+0 197
+ips-agent)"
+0 4
+MSIE 9.0
+0 197
+Googlebot/2.1
+0 35
+CATExplorador/1.0beta (sistemes at domini dot cat; http://domini.cat/catexplorador.html)
+0 3
+bingbot/2.0
+0 19
+aiHitBot/2.9
+0 18
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
